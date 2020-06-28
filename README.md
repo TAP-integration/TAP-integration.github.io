@@ -1,4 +1,5 @@
 # TAP-integration.github.io
 
-### Maker space for InCommon Trusted Access Platform Integration
+### Maker Space for InCommon Trusted Access Platform 
+#### Integration Overviews, How-tos, Tutorials, and Reference Manuals
  
